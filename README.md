@@ -3,9 +3,7 @@
 <div align="center">
     <img src="https://github.com/dlr4life/NYCSchools-DLR/blob/master/ListView.png" width="400px"</img> 
       <img src="https://github.com/dlr4life/NYCSchools-DLR/blob/master/DetailView.png" width="400px"</img> 
-    <img src="https://github.com/dlr4life/NYCSchools-DLR/blob/master/MapView.png" width="400px"</img> 
 </div>
-
 
 What I've learned from building this project:
 
