@@ -5,6 +5,7 @@
       <img src="https://github.com/dlr4life/NYCSchools-DLR/blob/master/DetailView.png" width="400px"</img> 
 </div>
 
+
 What I've learned from building this project:
 
 Improved JSON Parsing skills with Swift 4. 
