@@ -1,16 +1,17 @@
 # NYCSchools-DLR
 
-What I've learned from building this project:
-
-Improved JSON Parsing skills with Swift 4. 
-API integration and manipulation (merging sources for a merged dataset).
-Show locations on a map and using annotations (outside of Realm, CloutKit, Plists).
-
 <div align="center">
     <img src="https://github.com/dlr4life/NYCSchools-DLR/blob/master/ListView.png" width="400px"</img> 
       <img src="https://github.com/dlr4life/NYCSchools-DLR/blob/master/DetailView.png" width="400px"</img> 
     <img src="https://github.com/dlr4life/NYCSchools-DLR/blob/master/MapView.png" width="400px"</img> 
 </div>
+
+
+What I've learned from building this project:
+
+Improved JSON Parsing skills with Swift 4. 
+API integration and manipulation (merging sources for a merged dataset).
+Show locations on a map and using annotations (outside of Realm, CloutKit, Plists).
 
 Features:
 - Displaying the NYC schools by name with Avg. Math, Reading, Writing scores w/ Total # of test takers
